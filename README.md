@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sophmelville
-- 👀 I’m interested in information technology, data analytics and cybersecurity
-- 🌱 I’m currently studying Bachelor of Information Technology/Bachelor of Data Analytics
-- 💞️ I’m looking to learn more about different programming languages by seeing projects that others have made
+- 👀 I’m interested in information technology and computer networking
+- 🌱 I’m currently studying Bachelor of Information Technology/Bachelor of Computer Systems and Networking
+- 💞️ I’m looking to learn more about IT and networking by seeing projects that others have made
 - 📫 Reach me here :)
 
 <!---
